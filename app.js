@@ -144,9 +144,12 @@ app.get("/logout", (req, res, next) => {
 });
 
 // Home
-app.get("/", (req, res) => {
-  res.send("PAGE IS NOT FOUND");
+// Home
+app.get("/", async (req, res) => {
+  const allListings = await listing.find({});
+  res.render("listings/index", { allListings });
 });
+
 
 // Listings
 app.get("/listing", async (req, res) => {
