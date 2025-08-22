@@ -1,0 +1,85 @@
+/* body{
+    background-color: pink;
+} */
+
+.navbar{
+    height: 5rem;
+   background-color: white;
+}
+/* color of icons */
+.fa-compass{
+    color: #fe424d;
+    font-size: 2rem;
+}
+/* hightlight the nave bar leter */
+.nav-link{
+    color: #222222 !important;
+}
+
+/* footer */
+
+.f-info {
+  background-color: #ebebee;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.9rem;
+  color: #222;
+}
+
+.f-info-socials {
+  font-size: 1.5rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.f-info-links {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.f-info-links a {
+  text-decoration: none;
+  color: #222222;
+}
+
+.f-info-links a:hover {
+  text-decoration: underline;
+
+}
+
+
+/* index route */
+.card {
+  min-height: 100%;
+}
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.card-img-container {
+  overflow: hidden;
+  height: 200px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.card:hover .card-img-top {
+  transform: scale(1.1);
+}
+
