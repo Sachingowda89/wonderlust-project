@@ -124,12 +124,9 @@ Explore the unique features available in this application:
 ## 🔗 Demo & Screenshots
 
 - [Live Demo](https://github.com/Sachingowda89/wonderlust-project)
-- The project will take some time to load considering that it is hosted on the free tier. Therefore, maintain patient.
 
-| Mockup                              | Home Page                                 | New Listing Page                                       | Edit Listing                                        | Sign Up Page                               | Log In Page                              |
-| ----------------------------------- | ----------------------------------------- | ------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------ | ---------------------------------------- |
-| ![Mockup](./screenshots/Mockup.png) | ![Home Page](./screenshots/HomePage.jpeg) | ![New Listing Page](./screenshots/NewListingPage.jpeg) | ![Edit Listing](./screenshots/EditListingPage.jpeg) | ![Sign Up Page](./screenshots/SignUp.jpeg) | ![Log In Page](./screenshots/LogIn.jpeg) |
 
----
+
+<img width="1920" height="1008" alt="Screenshot 2025-12-01 210909" src="https://github.com/user-attachments/assets/4aa904c8-54e1-4916-8e56-57e47a28ac7e" />
 
 ### Enjoy exploring and contributing to Wanderlust!
